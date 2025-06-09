@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @RADHA1002
-- 👀 I’m interested in develop a system
+- 👀 I’m interested in system development
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborat
+- 💞️ Working as quality controller at vanguard international semiconductor,singapore.
 - 📫 radhamorgan96@gmail.com
-- 😄 Pronouns: RADHA only.
+- 😄 Pronouns: R A D H A only.
 - ⚡ Fun fact: Dont joke to me, thats it!
 
 <!---
