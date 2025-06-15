@@ -3,6 +3,7 @@
 ## Working as QUALITY CONTROLER at vanguard international,singapore. 
 
 🔹 **Quality inspection** 
+
 -Inspect and test materials, components, and final products using established procedures.
 
 -Ensure compliance with internal standards and external regulations.
