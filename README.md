@@ -1,6 +1,8 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Radha Morgan
 
-## Working as quality controller at vanguard international,singapore. 
+## Working as 5S AUDITOR at vanguard international,singapore. 
+The main responsibilities of the 5S Auditor can include: Controlling the functioning of the system and compliance with standards in specific areas.
+Collecting information about the occurring non-conformities and hazards in areas of work and identify opportunities for improvement.
 
 🔹 **Quality inspection** 
 -Inspect and test materials, components, and final products using established procedures.
