@@ -2,8 +2,6 @@
 
 ## Working as quality controller at vanguard international,singapore. 
 
-## Software Engineering Student at UTM  
-
 🔹 **Quality inspection** 
 -Inspect and test materials, components, and final products using established procedures.
 
@@ -21,6 +19,7 @@
 
 -Participate in audits and continuous improvement initiatives.
  
+## Software Engineering Student at UTM  
 
 🔹 **Computer Science Student** at Universiti Teknologi Malaysia (UTM):  
 - Passionate about solving real-world problems through technology, with hands-on experience in coding, debugging, and collaborative project work.
