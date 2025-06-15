@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @RADHA1002
-- 👀 I’m interested in system development
-- 🌱 I’m currently learning computer science
-- 💞️ Working as quality controller at vanguard international semiconductor,singapore.
-- 📫 radhamorgan96@gmail.com
-- 😄 Pronouns: R A D H A only.
-- ⚡ Fun fact: Dont joke to me, thats it!
-
 # README.md
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Radha Morgan
 
