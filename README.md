@@ -1,6 +1,8 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Radha Morgan
 
-## Working as quality controller at vanguard international,singapore. Software Engineering Student at UTM  
+## Working as quality controller at vanguard international,singapore. 
+
+## Software Engineering Student at UTM  
 
 🔹 **Quality inspection** 
 -Inspect and test materials, components, and final products using established procedures.
